@@ -97,23 +97,23 @@
                     </div>
                 </div>
             </div>
-            
-            <!-- Call to Action -->
-            <div class="mt-24 text-center">
-                <p class="text-gray-400 mb-6 text-lg">Want to collaborate on a project?</p>
-                <div class="flex items-center justify-center gap-4 pt-6">
-                    <a href="https://github.com/BrenanLester" target="_blank" class="social-icon">
-                        <i class="fab fa-github"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/brenan-lester-espeleta-068811369/" target="_blank" class="social-icon">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a href="https://brenanlesterespeleta05@gmail.com" class="social-icon">
-                        <i class="fas fa-envelope"></i>
-                    </a>
-                </div>
-            </div>
         </div>
     </main>
-</body>
-</html>
+
+    <!-- Footer -->
+    <footer class="px-6 md:px-20 py-24 border-t border-gray-800">
+        <div class="mt-24 text-center">
+            <p class="text-gray-400 mb-6 text-lg">Want to collaborate on a project?</p>
+            <div class="flex items-center justify-center gap-4 pt-6">
+                <a href="https://github.com/BrenanLester" target="_blank" class="social-icon">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/brenan-lester-espeleta-068811369/" target="_blank" class="social-icon">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a href="https://brenanlesterespeleta05@gmail.com" class="social-icon">
+                    <i class="fas fa-envelope"></i>
+                </a>
+            </div>
+        </div>
+    </footer>

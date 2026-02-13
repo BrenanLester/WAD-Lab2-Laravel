@@ -90,7 +90,7 @@ body {
     }
 
     .stat-card {
-        @apply text-center bg-gradient-to-br from-gray-900/50 to-gray-800/30 border border-gray-800 rounded-2xl p-8 backdrop-blur-sm transition-all duration-300 flex flex-col items-center h-full hover:border-[#00ff9d] hover:shadow-[0_0_20px_rgba(0, 255, 157, 0.15)] hover:-translate-y-2;
+        @apply text-center bg-gradient-to-br from-gray-900/50 to-gray-800/30 border border-gray-800 rounded-2xl p-8 backdrop-blur-sm transition-all duration-300 flex flex-col items-center h-full hover:border-[#00ff9d] hover:shadow-[0_0_20px_rgba(0,255,157,0.15)] hover:-translate-y-2;
     }
 
     .social-icon {
