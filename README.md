@@ -24,7 +24,8 @@ This project was created as part of an academic requirement.
 - Short personal introduction
 - Navigation links to About Me and Projects pages
 
-*(Insert screenshot here)*
+*(Screenshot here)*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3c4a911d-2ec6-42fd-a4ea-7909b0dc64bd" />
 
 ---
 
@@ -36,7 +37,8 @@ This project was created as part of an academic requirement.
 - Interests and goals
 - Link back to the main portfolio page
 
-*(Insert screenshot here)*
+*(Screenshot here)*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9c3c12bb-aa53-445a-a54a-8b3c4ba10a1e" />
 
 ---
 
@@ -47,7 +49,8 @@ This project was created as part of an academic requirement.
 - List of projects, hobbies, or skills
 - Link back to the main portfolio page
 
-*(Insert screenshot here)*
+*(Screenshot Here)*
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ef8f1016-7988-4865-9947-6edc0068e627" />
 
 ---
 
