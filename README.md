@@ -59,7 +59,7 @@ This project was created as part of an academic requirement.
 Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**
-git clone <your-repository-link>
+git clone https://github.com/BrenanLester/WAD-Lab2-Laravel.git
 
 2. **Navigate to the project folder**
 cd laravel-app
