@@ -67,14 +67,20 @@ cd laravel-app
 3. **Install Dependencies**
 composer install
 
-4. **Create environment file**
+4. **Install Node Dependencies (Required for Tailwind CSS)**
+npm install
+
+5. **Create environment file**
 cp .env.example .env
 
-5. **Generate application key**
+6. **Run Tailwind CSS (Vite Development Server)**
+npm run dev
+
+7. **Generate application key**
 php artisan key:generate
 
-6. **Run the Laravel development server**
+8. **Run the Laravel development server**
 php artisan serve
 
-7. **Open the application in your browser**
+9. **Open the application in your browser**
 http://127.0.0.1:8000    
